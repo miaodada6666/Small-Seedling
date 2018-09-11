@@ -1,6 +1,6 @@
 spring:
   datasource:
-    url: jdbc:mysql://120.79.207.84:3306/wenyu?useSSL=true
+    url: jdbc:mysql://120.79.207.84:3306/hemiao?useSSL=true
     username: root
     password: 19980115
     driver-class-name: com.mysql.jdbc.Driver
